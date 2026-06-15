@@ -1,6 +1,6 @@
 ## Hi, I'm Parth
 
-Computer Engineering student with a strong passion for technology and innovation.<br/>
+Computer Engineering with a strong passion for technology and innovation.<br/>
 I'm always looking for opportunities to grow and contribute meaningfully through tech.<br/>
 Join the [B10](https://discord.gg/sT5h37Zx)
 
