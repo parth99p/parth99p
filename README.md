@@ -8,6 +8,19 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/parthpatil99_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthpatil99_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/parth-patil-b99005224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-patil-b99005224/" height="30" width="40" /></a> 
+<a href="mailto:parthpatil4999@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Parth99p" height="30" width="40" /></a>
+<a href="https://discord.gg/sT5h37Zx" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="parth99" height="30" width="40" /></a>
+<a href="https://x.com/Parth99p" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Parth99p" height="30" width="40" /></a>
+</p>
+
+
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/parth99p">
@@ -61,21 +74,6 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/parth-patil-b99005224/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/Parth99p">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:parthpatil4999@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://bookswap-online-book-storee.vercel.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
